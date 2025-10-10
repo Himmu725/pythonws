@@ -1,0 +1,6 @@
+name: Himanshu Verma
+bio: I’m a B.Tech (AI/ML) student passionate about backend development, DSA, and real-world AI solutions.
+skills: Python, MongoDB, Flask, HTML, CSS, DSA
+email: himanshu@example.com
+linkedin: https://linkedin.com/in/himanshu-verma
+github: https://github.com/himanshuverma
