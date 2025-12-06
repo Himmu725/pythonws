@@ -1,5 +1,10 @@
 import openai
-openai.api_key = "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"
+
+import os
+openai.api_key = os.getenv("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")
+
+
+# openai.api_key = "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" 
 response = openai.ChatCompletion.create(
     model="gpt-4",
     messages=[
